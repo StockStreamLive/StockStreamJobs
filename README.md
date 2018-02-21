@@ -1,2 +1,2 @@
 # StockStreamJobs
-A set of jobs that periodically synchronizes StockStream data.
+A collection of jobs that run periodically to sync data from Robinhood to DynamoDB.
